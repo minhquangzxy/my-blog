@@ -1,4 +1,4 @@
-baseURL = "https://minhquangzxy.github.io/my-blog/"
+baseURL = "https://minhquang.netlify.app/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Website of Jane Doe"
