@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My blog</title>
-    <link>http://localhost:53962/</link>
+    <link>http://localhost:54081/my-blog/</link>
     <description>Recent content on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:53962/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:54081/my-blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CHỨNG NHẬN</title>
-      <link>http://localhost:53962/certifications/</link>
+      <link>http://localhost:54081/my-blog/certifications/</link>
       <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53962/certifications/</guid>
+      <guid>http://localhost:54081/my-blog/certifications/</guid>
       
         <description><h2 id="3-khóa-học-môn-lập-trình-mạng-máy-tính">3 Khóa học môn lập trình mạng máy tính</h2>
 <ol>
@@ -25,10 +25,10 @@
     
     <item>
       <title>GIẢI THƯỞNG</title>
-      <link>http://localhost:53962/awards/</link>
+      <link>http://localhost:54081/my-blog/awards/</link>
       <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53962/awards/</guid>
+      <guid>http://localhost:54081/my-blog/awards/</guid>
       
         <description><!-- raw HTML omitted -->
 <p>Với niềm đam mê của mình trong lĩnh vực máy tính, tôi luôn cố gắng không ngừng phát triển bản thân để đóng góp nhiều hơn cho nền công nghệ nước nhà. Trong suốt quá trình học tập và làm việc, tôi đã gặt hái được một vài thành công đáng kể khi còn ngồi tại ngôi trường đại học. Dưới đây là một số giải thưởng tiêu biểu:</p></description>
@@ -37,10 +37,10 @@
     
     <item>
       <title>Giới thiệu</title>
-      <link>http://localhost:53962/about/</link>
+      <link>http://localhost:54081/my-blog/about/</link>
       <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53962/about/</guid>
+      <guid>http://localhost:54081/my-blog/about/</guid>
       
         <description><p>Xin chào! Tên của tôi là Phạm Trần Minh Quang, nhưng bạn có thể gọi tôi là Noah. Tôi sinh ra và lớn lên tại Quảng Ngãi, và hiện tại là sinh viên của trường Đại học Công nghệ Thành phố Hồ Chí Minh.</p></description>
       
@@ -48,10 +48,10 @@
     
     <item>
       <title>Cấu trúc code trong Javascript</title>
-      <link>http://localhost:53962/post/10/</link>
+      <link>http://localhost:54081/my-blog/post/10/</link>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53962/post/10/</guid>
+      <guid>http://localhost:54081/my-blog/post/10/</guid>
       
         <description>Những nội dung mình được học ở buổi 9</description>
       
@@ -59,10 +59,10 @@
     
     <item>
       <title>Chương trình Javascript đầu tiên</title>
-      <link>http://localhost:53962/post/9/</link>
+      <link>http://localhost:54081/my-blog/post/9/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53962/post/9/</guid>
+      <guid>http://localhost:54081/my-blog/post/9/</guid>
       
         <description>Những nội dung mình được học ở buổi 9</description>
       
@@ -70,10 +70,10 @@
     
     <item>
       <title>Dev Tools là gì? Code javascript tại sao cần console.log</title>
-      <link>http://localhost:53962/post/8/</link>
+      <link>http://localhost:54081/my-blog/post/8/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53962/post/8/</guid>
+      <guid>http://localhost:54081/my-blog/post/8/</guid>
       
         <description>Những nội dung mình được học ở buổi 8</description>
       
@@ -81,10 +81,10 @@
     
     <item>
       <title>IDE là gì?</title>
-      <link>http://localhost:53962/post/7/</link>
+      <link>http://localhost:54081/my-blog/post/7/</link>
       <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53962/post/7/</guid>
+      <guid>http://localhost:54081/my-blog/post/7/</guid>
       
         <description>Những nội dung mình được học ở buổi 7</description>
       
@@ -92,10 +92,10 @@
     
     <item>
       <title>Giới thiệu Javascript</title>
-      <link>http://localhost:53962/post/6/</link>
+      <link>http://localhost:54081/my-blog/post/6/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53962/post/6/</guid>
+      <guid>http://localhost:54081/my-blog/post/6/</guid>
       
         <description>Những nội dung mình được học ở buổi 6</description>
       
@@ -103,10 +103,10 @@
     
     <item>
       <title>Thiết lập môi trường và cài đặt IDE</title>
-      <link>http://localhost:53962/post/5/</link>
+      <link>http://localhost:54081/my-blog/post/5/</link>
       <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53962/post/5/</guid>
+      <guid>http://localhost:54081/my-blog/post/5/</guid>
       
         <description>Những nội dung mình được học ở buổi 4</description>
       
@@ -114,10 +114,10 @@
     
     <item>
       <title>Cơ hội nghề nghiệp với Java</title>
-      <link>http://localhost:53962/post/3/</link>
+      <link>http://localhost:54081/my-blog/post/3/</link>
       <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53962/post/3/</guid>
+      <guid>http://localhost:54081/my-blog/post/3/</guid>
       
         <description>Những nội dung mình được học ở buổi 3</description>
       
@@ -125,10 +125,10 @@
     
     <item>
       <title>Tại sao nên học Java?</title>
-      <link>http://localhost:53962/post/2/</link>
+      <link>http://localhost:54081/my-blog/post/2/</link>
       <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53962/post/2/</guid>
+      <guid>http://localhost:54081/my-blog/post/2/</guid>
       
         <description>Những nội dung mình được học ở buổi 2</description>
       
@@ -136,10 +136,10 @@
     
     <item>
       <title>Giới thiệu ngôn ngữ lập trình Java</title>
-      <link>http://localhost:53962/post/1/</link>
+      <link>http://localhost:54081/my-blog/post/1/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53962/post/1/</guid>
+      <guid>http://localhost:54081/my-blog/post/1/</guid>
       
         <description>Những nội dung mình được học ở buổi 1</description>
       
