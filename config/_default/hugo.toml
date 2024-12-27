@@ -12,7 +12,32 @@ summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
 
+[[params.socialIcons]]
+icon = "fa-brands fa-facebook"
+title = "e-mail"
+url = "https://www.facebook.com/iamquangg.2004"
 
+[[params.socialIcons]]
+icon = "fa-brands fa-instagram"
+title = "instagram"
+url = "https://www.instagram.com/icy.noah_/"
+
+
+[[params.socialIcons]]
+icon = "fa-brands fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/quangphamit/"
+
+[[params.socialIcons]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/minhquangzxy"
+
+
+[[params.socialIcons]]
+icon = "fa-solid fa-envelope"
+title = "e-mail"
+url = "mailto:quangptm.it@gmail.com"
 
 # Syntax highlighting
 pygmentsUseClasses = true   
