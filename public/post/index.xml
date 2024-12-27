@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My blog</title>
-    <link>http://localhost:53390/post/</link>
+    <link>http://localhost:53465/post/</link>
     <description>Recent content in Posts on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:53390/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:53465/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cấu trúc code trong Javascript</title>
-      <link>http://localhost:53390/post/10/</link>
+      <link>http://localhost:53465/post/10/</link>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53390/post/10/</guid>
+      <guid>http://localhost:53465/post/10/</guid>
       
         <description>Những nội dung mình được học ở buổi 9</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Chương trình Javascript đầu tiên</title>
-      <link>http://localhost:53390/post/9/</link>
+      <link>http://localhost:53465/post/9/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53390/post/9/</guid>
+      <guid>http://localhost:53465/post/9/</guid>
       
         <description>Những nội dung mình được học ở buổi 9</description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>Dev Tools là gì? Code javascript tại sao cần console.log</title>
-      <link>http://localhost:53390/post/8/</link>
+      <link>http://localhost:53465/post/8/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53390/post/8/</guid>
+      <guid>http://localhost:53465/post/8/</guid>
       
         <description>Những nội dung mình được học ở buổi 8</description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title>IDE là gì?</title>
-      <link>http://localhost:53390/post/7/</link>
+      <link>http://localhost:53465/post/7/</link>
       <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53390/post/7/</guid>
+      <guid>http://localhost:53465/post/7/</guid>
       
         <description>Những nội dung mình được học ở buổi 7</description>
       
@@ -53,10 +53,10 @@
     
     <item>
       <title>Giới thiệu Javascript</title>
-      <link>http://localhost:53390/post/6/</link>
+      <link>http://localhost:53465/post/6/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53390/post/6/</guid>
+      <guid>http://localhost:53465/post/6/</guid>
       
         <description>Những nội dung mình được học ở buổi 6</description>
       
@@ -64,10 +64,10 @@
     
     <item>
       <title>Thiết lập môi trường và cài đặt IDE</title>
-      <link>http://localhost:53390/post/5/</link>
+      <link>http://localhost:53465/post/5/</link>
       <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53390/post/5/</guid>
+      <guid>http://localhost:53465/post/5/</guid>
       
         <description>Những nội dung mình được học ở buổi 4</description>
       
@@ -75,10 +75,10 @@
     
     <item>
       <title>Cơ hội nghề nghiệp với Java</title>
-      <link>http://localhost:53390/post/3/</link>
+      <link>http://localhost:53465/post/3/</link>
       <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53390/post/3/</guid>
+      <guid>http://localhost:53465/post/3/</guid>
       
         <description>Những nội dung mình được học ở buổi 3</description>
       
@@ -86,10 +86,10 @@
     
     <item>
       <title>Tại sao nên học Java?</title>
-      <link>http://localhost:53390/post/2/</link>
+      <link>http://localhost:53465/post/2/</link>
       <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53390/post/2/</guid>
+      <guid>http://localhost:53465/post/2/</guid>
       
         <description>Những nội dung mình được học ở buổi 2</description>
       
@@ -97,10 +97,10 @@
     
     <item>
       <title>Giới thiệu ngôn ngữ lập trình Java</title>
-      <link>http://localhost:53390/post/1/</link>
+      <link>http://localhost:53465/post/1/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53390/post/1/</guid>
+      <guid>http://localhost:53465/post/1/</guid>
       
         <description>Những nội dung mình được học ở buổi 1</description>
       
