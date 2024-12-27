@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CHỨNG NHẬN</title>
+      <link>http://localhost:1313/certifications/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/certifications/</guid>
+      
+        <description><h2 id="3-khóa-học-môn-lập-trình-mạng-máy-tính">3 Khóa học môn lập trình mạng máy tính</h2>
+<ol>
+<li>Networking Basic</li>
+<li>JavaScript Essential 1</li>
+<li>JavaScript Essential 2</li>
+</ol></description>
+      
+    </item>
+    
+    <item>
+      <title>GIẢI THƯỞNG</title>
+      <link>http://localhost:1313/awards/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/awards/</guid>
+      
+        <description><!-- raw HTML omitted -->
+<p>Với niềm đam mê của mình trong lĩnh vực máy tính, tôi luôn cố gắng không ngừng phát triển bản thân để đóng góp nhiều hơn cho nền công nghệ nước nhà. Trong suốt quá trình học tập và làm việc, tôi đã gặt hái được một vài thành công đáng kể khi còn ngồi tại ngôi trường đại học. Dưới đây là một số giải thưởng tiêu biểu:</p></description>
+      
+    </item>
+    
+    <item>
+      <title>Giới thiệu</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      
+        <description><p>Xin chào! Tên của tôi là Phạm Trần Minh Quang, nhưng bạn có thể gọi tôi là Noah. Tôi sinh ra và lớn lên tại Quảng Ngãi, và hiện tại là sinh viên của trường Đại học Công nghệ Thành phố Hồ Chí Minh.</p></description>
+      
+    </item>
+    
+    <item>
+      <title>Cấu trúc code trong Javascript</title>
+      <link>http://localhost:1313/posts/10/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/10/</guid>
+      
+        <description>Những nội dung mình được học ở buổi 9</description>
+      
+    </item>
+    
+    <item>
+      <title>Chương trình Javascript đầu tiên</title>
+      <link>http://localhost:1313/posts/9/</link>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/9/</guid>
+      
+        <description>Những nội dung mình được học ở buổi 9</description>
+      
+    </item>
+    
+    <item>
+      <title>Dev Tools là gì? Code javascript tại sao cần console.log</title>
+      <link>http://localhost:1313/posts/8/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/8/</guid>
+      
+        <description>Những nội dung mình được học ở buổi 8</description>
+      
+    </item>
+    
+    <item>
+      <title>IDE là gì?</title>
+      <link>http://localhost:1313/posts/7/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/7/</guid>
+      
+        <description>Những nội dung mình được học ở buổi 7</description>
+      
+    </item>
+    
+    <item>
+      <title>Giới thiệu Javascript</title>
+      <link>http://localhost:1313/posts/6/</link>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/6/</guid>
+      
+        <description>Những nội dung mình được học ở buổi 6</description>
+      
+    </item>
+    
+    <item>
+      <title>Thiết lập môi trường và cài đặt IDE</title>
+      <link>http://localhost:1313/posts/5/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/5/</guid>
+      
+        <description>Những nội dung mình được học ở buổi 4</description>
+      
+    </item>
+    
+    <item>
+      <title>Cơ hội nghề nghiệp với Java</title>
+      <link>http://localhost:1313/posts/3/</link>
+      <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/3/</guid>
+      
+        <description>Những nội dung mình được học ở buổi 3</description>
+      
+    </item>
+    
+    <item>
+      <title>Tại sao nên học Java?</title>
+      <link>http://localhost:1313/posts/2/</link>
+      <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2/</guid>
+      
+        <description>Những nội dung mình được học ở buổi 2</description>
+      
+    </item>
+    
+    <item>
+      <title>Giới thiệu ngôn ngữ lập trình Java</title>
+      <link>http://localhost:1313/posts/1/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/1/</guid>
+      
+        <description>Những nội dung mình được học ở buổi 1</description>
+      
+    </item>
+    
+  </channel>
+</rss>

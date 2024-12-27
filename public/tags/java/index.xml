@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on My blog</title>
+    <link>http://localhost:1313/tags/java/</link>
+    <description>Recent content in Java on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thiết lập môi trường và cài đặt IDE</title>
+      <link>http://localhost:1313/posts/5/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/5/</guid>
+      
+        <description>Những nội dung mình được học ở buổi 4</description>
+      
+    </item>
+    
+    <item>
+      <title>Cơ hội nghề nghiệp với Java</title>
+      <link>http://localhost:1313/posts/3/</link>
+      <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/3/</guid>
+      
+        <description>Những nội dung mình được học ở buổi 3</description>
+      
+    </item>
+    
+    <item>
+      <title>Tại sao nên học Java?</title>
+      <link>http://localhost:1313/posts/2/</link>
+      <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2/</guid>
+      
+        <description>Những nội dung mình được học ở buổi 2</description>
+      
+    </item>
+    
+    <item>
+      <title>Giới thiệu ngôn ngữ lập trình Java</title>
+      <link>http://localhost:1313/posts/1/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/1/</guid>
+      
+        <description>Những nội dung mình được học ở buổi 1</description>
+      
+    </item>
+    
+  </channel>
+</rss>

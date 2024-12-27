@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cấu trúc code trong Javascript</title>
+      <link>http://localhost:1313/posts/10/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/10/</guid>
+      
+        <description>Những nội dung mình được học ở buổi 9</description>
+      
+    </item>
+    
+    <item>
+      <title>Chương trình Javascript đầu tiên</title>
+      <link>http://localhost:1313/posts/9/</link>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/9/</guid>
+      
+        <description>Những nội dung mình được học ở buổi 9</description>
+      
+    </item>
+    
+    <item>
+      <title>Dev Tools là gì? Code javascript tại sao cần console.log</title>
+      <link>http://localhost:1313/posts/8/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/8/</guid>
+      
+        <description>Những nội dung mình được học ở buổi 8</description>
+      
+    </item>
+    
+    <item>
+      <title>IDE là gì?</title>
+      <link>http://localhost:1313/posts/7/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/7/</guid>
+      
+        <description>Những nội dung mình được học ở buổi 7</description>
+      
+    </item>
+    
+    <item>
+      <title>Giới thiệu Javascript</title>
+      <link>http://localhost:1313/posts/6/</link>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/6/</guid>
+      
+        <description>Những nội dung mình được học ở buổi 6</description>
+      
+    </item>
+    
+    <item>
+      <title>Thiết lập môi trường và cài đặt IDE</title>
+      <link>http://localhost:1313/posts/5/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/5/</guid>
+      
+        <description>Những nội dung mình được học ở buổi 4</description>
+      
+    </item>
+    
+    <item>
+      <title>Cơ hội nghề nghiệp với Java</title>
+      <link>http://localhost:1313/posts/3/</link>
+      <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/3/</guid>
+      
+        <description>Những nội dung mình được học ở buổi 3</description>
+      
+    </item>
+    
+    <item>
+      <title>Tại sao nên học Java?</title>
+      <link>http://localhost:1313/posts/2/</link>
+      <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2/</guid>
+      
+        <description>Những nội dung mình được học ở buổi 2</description>
+      
+    </item>
+    
+    <item>
+      <title>Giới thiệu ngôn ngữ lập trình Java</title>
+      <link>http://localhost:1313/posts/1/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/1/</guid>
+      
+        <description>Những nội dung mình được học ở buổi 1</description>
+      
+    </item>
+    
+  </channel>
+</rss>
