@@ -1,51 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My blog</title>
-    <link>http://localhost:52219/</link>
-    <description>Recent content on My blog</description>
+    <title>Posts on My blog</title>
+    <link>http://localhost:52219/post/</link>
+    <description>Recent content in Posts on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52219/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>CHỨNG NHẬN</title>
-      <link>http://localhost:52219/certifications/</link>
-      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:52219/certifications/</guid>
-      
-        <description><h2 id="3-khóa-học-môn-lập-trình-mạng-máy-tính">3 Khóa học môn lập trình mạng máy tính</h2>
-<ol>
-<li>Networking Basic</li>
-<li>JavaScript Essential 1</li>
-<li>JavaScript Essential 2</li>
-</ol></description>
-      
-    </item>
-    
-    <item>
-      <title>GIẢI THƯỞNG</title>
-      <link>http://localhost:52219/awards/</link>
-      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:52219/awards/</guid>
-      
-        <description><!-- raw HTML omitted -->
-<p>Với niềm đam mê của mình trong lĩnh vực máy tính, tôi luôn cố gắng không ngừng phát triển bản thân để đóng góp nhiều hơn cho nền công nghệ nước nhà. Trong suốt quá trình học tập và làm việc, tôi đã gặt hái được một vài thành công đáng kể khi còn ngồi tại ngôi trường đại học. Dưới đây là một số giải thưởng tiêu biểu:</p></description>
-      
-    </item>
-    
-    <item>
-      <title>Giới thiệu</title>
-      <link>http://localhost:52219/about/</link>
-      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:52219/about/</guid>
-      
-        <description><p>Xin chào! Tên của tôi là Phạm Trần Minh Quang, nhưng bạn có thể gọi tôi là Noah. Tôi sinh ra và lớn lên tại Quảng Ngãi, và hiện tại là sinh viên của trường Đại học Công nghệ Thành phố Hồ Chí Minh.</p></description>
-      
-    </item>
-    
+    <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52219/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cấu trúc code trong Javascript</title>
       <link>http://localhost:52219/post/10/</link>
