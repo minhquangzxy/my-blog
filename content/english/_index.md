@@ -2,15 +2,15 @@
 author = "Pham Tran Minh Quang"
 +++
 
-# Welcome to My Personal Website
+## 👋 WELCOME TO MY PERSONAL WEBSITE
 
-## About Me
-
-Hi, I'm **Pham Tran Minh Quang**, a passionate individual in the field of Information Technology. With a strong background in [specific area or expertise], I aim to contribute significantly to the technological advancement of our country.
+## About Me 🤷‍♂️
+![test](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5ndHUzeXdlMjNncnFsazNxdHhsZHUzeGFvMG1nZGFob3Z0MXFvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IWhCdSgR2Hh9QawXdc/giphy.webp)
+Hi 👋, I'm **Pham Tran Minh Quang**, a passionate individual in the field of Information Technology. With a strong background in [specific area or expertise], I aim to contribute significantly to the technological advancement of our country.
 
 ![Profile Picture](images/profile.jpg)
 
-## Achievements
+## Achievements 🏆
 
 Throughout my academic and professional journey, I have achieved notable successes and have been honored with several awards:
 

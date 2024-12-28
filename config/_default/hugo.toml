@@ -1,7 +1,7 @@
 baseURL = "https://minhquang.netlify.app/"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Website of Jane Doe"
+title = "Website of Minh Quang"
 
 # theme as hugo module
 #theme = "github.com/lxndrblz/anatole"
