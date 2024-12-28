@@ -2,7 +2,7 @@
 title = "CHỨNG NHẬN"
 description = ""
 date = "2024-12-25"
-aliases = ["certifications"]
+aliases = []
 author = "Minh Quang"
 +++
 
