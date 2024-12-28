@@ -8,18 +8,27 @@
     <language>en</language>
     <lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://minhquang.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CHỨNG NHẬN</title>
+      <title>ABOUT</title>
+      <link>https://minhquang.netlify.app/about/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://minhquang.netlify.app/about/</guid>
+      
+        <description><p><img alt="Wellcome" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDM1a2FwNTZoMXp4anJraDB1cjRjZG85ajhlcDQ3OG16NG13MHVzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rjub7AIEIbXT0tzbr3/giphy.webp">
+Hello! My name is <strong>Pham Tran Minh Quang</strong>, and Quang Ngai is where I was born. Currently, I am living, studying, and working in Ho Chi Minh City.</p></description>
+      
+    </item>
+    
+    <item>
+      <title>CERTIFICATE</title>
       <link>https://minhquang.netlify.app/certifications/</link>
       <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
       
       <guid>https://minhquang.netlify.app/certifications/</guid>
       
-        <description><h2 id="3-khóa-học-môn-lập-trình-mạng-máy-tính">3 Khóa học môn lập trình mạng máy tính</h2>
-<ol>
-<li>Networking Basic</li>
-<li>JavaScript Essential 1</li>
-<li>JavaScript Essential 2</li>
-</ol></description>
+        <description><h2 id="3-courses-in-computer-network-programming">3 Courses in Computer Network Programming</h2>
+<h3 id="1-networking-basic">1. Networking Basic</h3>
+<p><img alt="Networking Basic" src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/twitter_thumb_201604_image.png"></p></description>
       
     </item>
     
@@ -31,19 +40,8 @@
       <guid>https://minhquang.netlify.app/awards/</guid>
       
         <description><!-- raw HTML omitted -->
-<p>Với niềm đam mê của mình trong lĩnh vực máy tính, tôi luôn cố gắng không ngừng phát triển bản thân để đóng góp nhiều hơn cho nền công nghệ nước nhà. Trong suốt quá trình học tập và làm việc, tôi đã gặt hái được một vài thành công đáng kể khi còn ngồi tại ngôi trường đại học. Dưới đây là một số giải thưởng tiêu biểu:</p></description>
-      
-    </item>
-    
-    <item>
-      <title>GIỚI THIỆU</title>
-      <link>https://minhquang.netlify.app/about/</link>
-      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://minhquang.netlify.app/about/</guid>
-      
-        <description><p><img alt="Wellcome" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDM1a2FwNTZoMXp4anJraDB1cjRjZG85ajhlcDQ3OG16NG13MHVzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rjub7AIEIbXT0tzbr3/giphy.webp">
-Xin chào! Tên của tôi là <strong>Phạm Trần Minh Quang</strong> và Quảng Ngãi là nơi sinh ra tôi. Hiện tại tôi đang sinh sống, học tập và làm việc tài Thành phố Hồ Chí Minh.</p></description>
+<p><img alt="Picture" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJoNnprNmdxaG9pc2R3ZXQ5OXRjYTF3YTMzYmtldjlndTZ2NjA5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RzNBbh3vF7Q41oLIE9/giphy.webp">
+With my passion for the field of computers, I always strive to continuously develop myself to contribute more to the country&rsquo;s technology sector. Throughout my studies and work, I have achieved some significant successes during my time at university. Below are some notable awards:</p></description>
       
     </item>
     

@@ -1,19 +1,19 @@
 +++
-title = "GIỚI THIỆU"
+title = "ABOUT"
 description = ""
 date = "2024-12-25"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Minh Quang"
 +++
 ![Wellcome](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDM1a2FwNTZoMXp4anJraDB1cjRjZG85ajhlcDQ3OG16NG13MHVzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rjub7AIEIbXT0tzbr3/giphy.webp)
-Xin chào! Tên của tôi là **Phạm Trần Minh Quang** và Quảng Ngãi là nơi sinh ra tôi. Hiện tại tôi đang sinh sống, học tập và làm việc tài Thành phố Hồ Chí Minh.
+Hello! My name is **Pham Tran Minh Quang**, and Quang Ngai is where I was born. Currently, I am living, studying, and working in Ho Chi Minh City.
 
-Từ nhỏ, tôi đã có niềm đam mê sâu sắc với công nghệ và máy tính 💻. Chính sự tò mò và khát khao hiểu biết đã dẫn dắt tôi đến với ngành công nghệ thông tin, nơi tôi có thể thỏa sức khám phá và sáng tạo. Bên cạnh việc học, tôi luôn dành thời gian để nghiên cứu và tìm hiểu thêm về các công nghệ mới. Tôi có nền tảng vững chắc về toán học và tư duy logic, những kỹ năng mà tôi tin rằng rất cần thiết cho bất kỳ lập trình viên nào. Tôi luôn khao khát học hỏi và đón nhận những thử thách mới, từ việc học một ngôn ngữ lập trình mới đến phát triển các thuật toán phức tạp.
+Since I was young, I have had a deep passion for technology and computers 💻. This curiosity and desire for knowledge led me to the field of information technology, where I can freely explore and create. Besides studying, I always spend time researching and learning about new technologies. I have a solid foundation in mathematics and logical thinking, skills that I believe are essential for any programmer. I am always eager to learn and embrace new challenges, from learning a new programming language to developing complex algorithms.
 
-Ngoài các hoạt động học tập, tôi có nhiều sở thích và hoạt động giúp tôi thư giãn và cân bằng cuộc sống. Tôi là một người thích nghe nhạc 🎼, nhất là pop, hiphop và r&b. Tôi cũng rất thích chơi game 🎮, nó giúp tôi giải tỏa sau một ngày dài đằng đẳng với bài vở.
+Outside of academic activities, I have many hobbies and activities that help me relax and balance my life. I am a music lover 🎼, especially pop, hip-hop, and R&B. I also enjoy playing games 🎮, which helps me unwind after a long day of studying.
 
-Công việc mơ ước của tôi là trở thành một Kỹ sư AI (AI Engineer). Tôi tin rằng trí tuệ nhân tạo là tương lai của công nghệ và tôi muốn đóng góp vào việc phát triển các hệ thống AI thông minh, có thể giúp cải thiện cuộc sống của con người. Tôi mong muốn được làm việc trong môi trường năng động, sáng tạo, nơi tôi có thể áp dụng kiến thức và kỹ năng của mình để giải quyết các vấn đề thực tế và tạo ra những sản phẩm công nghệ tiên tiến.
+My dream job is to become an AI Engineer. I believe that artificial intelligence is the future of technology, and I want to contribute to developing intelligent AI systems that can improve people's lives. I aspire to work in a dynamic, creative environment where I can apply my knowledge and skills to solve real-world problems and create advanced technological products.
 
-Tôi là một người có động lực cao, luôn tìm kiếm cơ hội để phát triển và cải thiện. Tôi không ngại bước ra khỏi vùng an toàn và chấp nhận rủi ro, vì tôi tin rằng đây là cách tốt nhất để đạt được sự phát triển cá nhân và nghề nghiệp. Tôi cũng là một người làm việc nhóm tốt, coi trọng sự hợp tác và tin rằng kết quả tốt nhất đạt được khi làm việc cùng nhau.
+I am a highly motivated individual, always seeking opportunities for growth and improvement. I am not afraid to step out of my comfort zone and take risks, as I believe this is the best way to achieve personal and professional development. I am also a good team player, valuing collaboration and believing that the best results are achieved when working together.
 
-Tóm lại, tôi là một cá nhân đam mê và đầy động lực với tình yêu sâu sắc dành cho công nghệ và mong muốn không ngừng học hỏi và cải thiện. Tôi rất hào hứng về tương lai và mong muốn đóng góp ý nghĩa cho lĩnh vực trí tuệ nhân tạo.
+In summary, I am a passionate and motivated individual with a deep love for technology and a desire for continuous learning and improvement. I am very excited about the future and eager to make meaningful contributions to the field of artificial intelligence. ngừng học hỏi và cải thiện. Tôi rất hào hứng về tương lai và mong muốn đóng góp ý nghĩa cho lĩnh vực trí tuệ nhân tạo.
