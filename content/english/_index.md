@@ -10,7 +10,7 @@ Hi 👋, I'm **Pham Tran Minh Quang**, a passionate individual in the field of I
 
 ![Profile Picture](images/profile.jpg)
 
-## Achievements 🏆
+## Achievements🏆
 
 Throughout my academic and professional journey, I have achieved notable successes and have been honored with several awards:
 
