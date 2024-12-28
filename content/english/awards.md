@@ -2,7 +2,7 @@
 title = "GIẢI THƯỞNG"
 description = ""
 date = "2024-12-25"
-aliases = ["awards"]
+aliases = []
 author = "Minh Quang"
 +++
 
