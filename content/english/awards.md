@@ -1,5 +1,5 @@
 +++
-title = "GIẢI THƯỞNG"
+title = "AWARDS"
 description = ""
 date = "2024-12-25"
 aliases = []

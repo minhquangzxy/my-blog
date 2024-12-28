@@ -1,6 +1,6 @@
 portfolioitems:
   # portfolio category
-  - title: WELCOME TO PORTFOLIO
+  - title: PORTFOLIO
     description: 'Coding'
     portfolioitem:
       - name: EduQuiz
