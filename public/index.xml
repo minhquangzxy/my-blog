@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My blog</title>
-    <link>https://minhquangzxy.github.io/my-blog/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://minhquangzxy.github.io/my-blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CHỨNG NHẬN</title>
-      <link>https://minhquangzxy.github.io/my-blog/certifications/</link>
+      <link>http://localhost:1313/certifications/</link>
       <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://minhquangzxy.github.io/my-blog/certifications/</guid>
+      <guid>http://localhost:1313/certifications/</guid>
       
         <description><h2 id="3-khóa-học-môn-lập-trình-mạng-máy-tính">3 Khóa học môn lập trình mạng máy tính</h2>
 <ol>
@@ -25,10 +25,10 @@
     
     <item>
       <title>GIẢI THƯỞNG</title>
-      <link>https://minhquangzxy.github.io/my-blog/awards/</link>
+      <link>http://localhost:1313/awards/</link>
       <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://minhquangzxy.github.io/my-blog/awards/</guid>
+      <guid>http://localhost:1313/awards/</guid>
       
         <description><!-- raw HTML omitted -->
 <p>Với niềm đam mê của mình trong lĩnh vực máy tính, tôi luôn cố gắng không ngừng phát triển bản thân để đóng góp nhiều hơn cho nền công nghệ nước nhà. Trong suốt quá trình học tập và làm việc, tôi đã gặt hái được một vài thành công đáng kể khi còn ngồi tại ngôi trường đại học. Dưới đây là một số giải thưởng tiêu biểu:</p></description>
@@ -37,10 +37,10 @@
     
     <item>
       <title>GIỚI THIỆU</title>
-      <link>https://minhquangzxy.github.io/my-blog/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://minhquangzxy.github.io/my-blog/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       
         <description><p><img alt="Wellcome" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDM1a2FwNTZoMXp4anJraDB1cjRjZG85ajhlcDQ3OG16NG13MHVzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rjub7AIEIbXT0tzbr3/giphy.webp">
 Xin chào! Tên của tôi là <strong>Phạm Trần Minh Quang</strong> và Quảng Ngãi là nơi sinh ra tôi. Hiện tại tôi đang sinh sống, học tập và làm việc tài Thành phố Hồ Chí Minh.</p></description>
@@ -49,10 +49,10 @@ Xin chào! Tên của tôi là <strong>Phạm Trần Minh Quang</strong> và Qu�
     
     <item>
       <title>CẤU TRÚC CODE TRONG JAVACRIPT</title>
-      <link>https://minhquangzxy.github.io/my-blog/post/10/</link>
+      <link>http://localhost:1313/post/10/</link>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://minhquangzxy.github.io/my-blog/post/10/</guid>
+      <guid>http://localhost:1313/post/10/</guid>
       
         <description><p>Chương trình là tập hợp của các câu lệnh. Hay nói cách khác, câu lệnh trong JavaScript là đơn vị cơ bản xây dựng nên một chương trình. Vì vậy, câu lệnh là khái niệm đầu tiên mà mình cần nắm vững khi học lập trình JavaScript.</p></description>
       
@@ -60,10 +60,10 @@ Xin chào! Tên của tôi là <strong>Phạm Trần Minh Quang</strong> và Qu�
     
     <item>
       <title>CHƯƠNG TRÌNH JAVASCRIPT ĐẦU TIÊN</title>
-      <link>https://minhquangzxy.github.io/my-blog/post/9/</link>
+      <link>http://localhost:1313/post/9/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://minhquangzxy.github.io/my-blog/post/9/</guid>
+      <guid>http://localhost:1313/post/9/</guid>
       
         <description><h2 id="hello-world-trong-javascript-console">Hello World trong JavaScript Console</h2>
 <p>Cách đơn giản nhất để viết và chạy chương trình JavaScript đầu tiên là sử dụng tiện ích <strong>console</strong> của Dev Tools trên trình duyệt.</p></description>
@@ -72,10 +72,10 @@ Xin chào! Tên của tôi là <strong>Phạm Trần Minh Quang</strong> và Qu�
     
     <item>
       <title>DEV TOOLS LÀ GÌ? CODE JAVASCRIPT TẠI SAO CẦN console.log?</title>
-      <link>https://minhquangzxy.github.io/my-blog/post/8/</link>
+      <link>http://localhost:1313/post/8/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://minhquangzxy.github.io/my-blog/post/8/</guid>
+      <guid>http://localhost:1313/post/8/</guid>
       
         <description><p>Trong lập trình, việc code lỗi là không thể tránh khỏi. Nhưng trên trình duyệt, bạn thường sẽ không nhìn thấy những lỗi này. Mà thay vào đó, bạn cần xem thông qua một công cụ. Đó chính là Dev Tools.</p></description>
       
@@ -83,10 +83,10 @@ Xin chào! Tên của tôi là <strong>Phạm Trần Minh Quang</strong> và Qu�
     
     <item>
       <title>IDE LÀ GÌ?</title>
-      <link>https://minhquangzxy.github.io/my-blog/post/7/</link>
+      <link>http://localhost:1313/post/7/</link>
       <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://minhquangzxy.github.io/my-blog/post/7/</guid>
+      <guid>http://localhost:1313/post/7/</guid>
       
         <description><p>Integrated Development Environment (IDE) là một bộ công cụ phần mềm giúp các lập trình viên viết và kiểm tra phần mềm. IDE thường bao gồm một trình soạn thảo mã nguồn, trình gỡ lỗi, và các công cụ tự động hóa quá trình xây dựng.</p></description>
       
@@ -94,10 +94,10 @@ Xin chào! Tên của tôi là <strong>Phạm Trần Minh Quang</strong> và Qu�
     
     <item>
       <title>GIỚI THIỆU JAVASCRIPT</title>
-      <link>https://minhquangzxy.github.io/my-blog/post/6/</link>
+      <link>http://localhost:1313/post/6/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://minhquangzxy.github.io/my-blog/post/6/</guid>
+      <guid>http://localhost:1313/post/6/</guid>
       
         <description><p>JavaScript là ngôn ngữ lập trình bậc cao, linh hoạt, được sử dụng chủ yếu để tạo ra ứng dụng chạy trên trình duyệt web. Được tạo ra bởi Brendan Eich vào năm 1995, JavaScript có thể được viết trong trình soạn thảo văn bản và chạy trực tiếp trên trình duyệt mà không cần qua quá trình biên dịch như C++ hoặc Java.</p></description>
       
@@ -105,10 +105,10 @@ Xin chào! Tên của tôi là <strong>Phạm Trần Minh Quang</strong> và Qu�
     
     <item>
       <title>THIẾT LẬP MÔI TRƯỜNG VÀ CÀI ĐẶT IDE</title>
-      <link>https://minhquangzxy.github.io/my-blog/post/5/</link>
+      <link>http://localhost:1313/post/5/</link>
       <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://minhquangzxy.github.io/my-blog/post/5/</guid>
+      <guid>http://localhost:1313/post/5/</guid>
       
         <description><h2 id="môi-trường-java">Môi Trường Java</h2>
 <h3 id="bước-1-tải-và-cài-đặt-jdk">Bước 1: Tải và Cài Đặt JDK</h3>
@@ -126,10 +126,10 @@ Xin chào! Tên của tôi là <strong>Phạm Trần Minh Quang</strong> và Qu�
     
     <item>
       <title>CƠ HỘI NGHỀ NGHIỆP VỚI JAVA</title>
-      <link>https://minhquangzxy.github.io/my-blog/post/3/</link>
+      <link>http://localhost:1313/post/3/</link>
       <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://minhquangzxy.github.io/my-blog/post/3/</guid>
+      <guid>http://localhost:1313/post/3/</guid>
       
         <description><h2 id="giới-thiệu">Giới thiệu</h2>
 <p>Với sự trỗi dậy mạnh mẽ của các ngôn ngữ láng giềng, Java dần đánh mất đi vị thế vốn có của mình, điều này đặt ra dấu chấm hỏi lớn về sự tồn vong của Java trong tương lai, khiến không ít những người yêu thích ngôn ngữ này trở nên hoang mang, lo lắng. Nhưng hãy phân tích thật kỹ lại mà xem, những anti-fan của Java đã thổi lên làn sống &ldquo;giãy chết&rdquo; cho chính ngôn ngữ này trong nhiều năm liền. Tuy nhiên, Java vẫn là một trong những ngôn ngữ được sử dụng hàng đầu, được các công ty công nghệ hàng đầu như Google, Amazon và Twitter lựa chọn để xây dựng các hệ thống kiên cố. Nên cụm từ &ldquo;giãy chết&rdquo; cũng chỉ là trò cười dối trá của phe &ldquo;thù địch&rdquo; mà thôi.</p></description>
@@ -138,10 +138,10 @@ Xin chào! Tên của tôi là <strong>Phạm Trần Minh Quang</strong> và Qu�
     
     <item>
       <title>TẠI SAO NÊN HỌC JAVA?</title>
-      <link>https://minhquangzxy.github.io/my-blog/post/2/</link>
+      <link>http://localhost:1313/post/2/</link>
       <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://minhquangzxy.github.io/my-blog/post/2/</guid>
+      <guid>http://localhost:1313/post/2/</guid>
       
         <description><h2 id="java-rất-dễ-tìm-hiểu">Java rất dễ tìm hiểu</h2>
 <p>Một trong những lý do hàng đầu mà bạn nên học ngôn ngữ lập trình Java đó là vì Java thuộc loại ngôn ngữ lập trình rất dễ tìm hiểu. Với cú pháp rõ ràng có đi kèm chú thích nhỏ, việc đọc và học ngôn ngữ lập trình Java có thể trở nên dễ dàng và thuận tiện hơn.</p></description>
@@ -150,10 +150,10 @@ Xin chào! Tên của tôi là <strong>Phạm Trần Minh Quang</strong> và Qu�
     
     <item>
       <title>GIỚI THIỆU NGÔN NGỮ LẬP TRÌNH JAVA</title>
-      <link>https://minhquangzxy.github.io/my-blog/post/1/</link>
+      <link>http://localhost:1313/post/1/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://minhquangzxy.github.io/my-blog/post/1/</guid>
+      <guid>http://localhost:1313/post/1/</guid>
       
         <description><p>Bài này sẽ cung cấp cho các bạn về khái niệm, kiến thức cơ bản liên quan đến việc lập trình ứng dụng bằng ngôn ngữ Java như: lịch sử phát triển của java, các đặc điểm của java, khái niệm máy ảo, cấu trúc của một chương trình đơn giản viết bằng Java cũng như cách xây dựng, dịch và thực thi một chương trình Java.</p></description>
       
