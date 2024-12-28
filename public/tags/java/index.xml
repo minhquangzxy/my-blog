@@ -8,46 +8,58 @@
     <language>en</language>
     <lastBuildDate>Mon, 04 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Thiết lập môi trường và cài đặt IDE</title>
+      <title>THIẾT LẬP MÔI TRƯỜNG VÀ CÀI ĐẶT IDE</title>
       <link>http://localhost:1313/post/5/</link>
       <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/post/5/</guid>
       
-        <description>Những nội dung mình được học ở buổi 4</description>
+        <description><h2 id="môi-trường-java">Môi Trường Java</h2>
+<h3 id="bước-1-tải-và-cài-đặt-jdk">Bước 1: Tải và Cài Đặt JDK</h3>
+<ol>
+<li>Truy cập trang <a href="https://www.oracle.com/java/technologies/javase-downloads.html">Oracle JDK</a> để tải JDK.</li>
+<li>Chọn phiên bản JDK phù hợp với hệ điều hành của bạn (Windows, macOS, Linux).</li>
+<li>Thực hiện cài đặt JDK theo hướng dẫn của trình cài đặt.</li>
+</ol>
+<h3 id="bước-2-cấu-hình-biến-môi-trường">Bước 2: Cấu hình Biến Môi Trường</h3>
+<ol>
+<li>
+<p><strong>Windows</strong>:</p></description>
       
     </item>
     
     <item>
-      <title>Cơ hội nghề nghiệp với Java</title>
+      <title>CƠ HỘI NGHỀ NGHIỆP VỚI JAVA</title>
       <link>http://localhost:1313/post/3/</link>
       <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/post/3/</guid>
       
-        <description>Những nội dung mình được học ở buổi 3</description>
+        <description><h2 id="giới-thiệu">Giới thiệu</h2>
+<p>Với sự trỗi dậy mạnh mẽ của các ngôn ngữ láng giềng, Java dần đánh mất đi vị thế vốn có của mình, điều này đặt ra dấu chấm hỏi lớn về sự tồn vong của Java trong tương lai, khiến không ít những người yêu thích ngôn ngữ này trở nên hoang mang, lo lắng. Nhưng hãy phân tích thật kỹ lại mà xem, những anti-fan của Java đã thổi lên làn sống &ldquo;giãy chết&rdquo; cho chính ngôn ngữ này trong nhiều năm liền. Tuy nhiên, Java vẫn là một trong những ngôn ngữ được sử dụng hàng đầu, được các công ty công nghệ hàng đầu như Google, Amazon và Twitter lựa chọn để xây dựng các hệ thống kiên cố. Nên cụm từ &ldquo;giãy chết&rdquo; cũng chỉ là trò cười dối trá của phe &ldquo;thù địch&rdquo; mà thôi.</p></description>
       
     </item>
     
     <item>
-      <title>Tại sao nên học Java?</title>
+      <title>TẠI SAO NÊN HỌC JAVA?</title>
       <link>http://localhost:1313/post/2/</link>
       <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/post/2/</guid>
       
-        <description>Những nội dung mình được học ở buổi 2</description>
+        <description><h2 id="java-rất-dễ-tìm-hiểu">Java rất dễ tìm hiểu</h2>
+<p>Một trong những lý do hàng đầu mà bạn nên học ngôn ngữ lập trình Java đó là vì Java thuộc loại ngôn ngữ lập trình rất dễ tìm hiểu. Với cú pháp rõ ràng có đi kèm chú thích nhỏ, việc đọc và học ngôn ngữ lập trình Java có thể trở nên dễ dàng và thuận tiện hơn.</p></description>
       
     </item>
     
     <item>
-      <title>Giới thiệu ngôn ngữ lập trình Java</title>
+      <title>GIỚI THIỆU NGÔN NGỮ LẬP TRÌNH JAVA</title>
       <link>http://localhost:1313/post/1/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/post/1/</guid>
       
-        <description>Những nội dung mình được học ở buổi 1</description>
+        <description><p>Bài này sẽ cung cấp cho các bạn về khái niệm, kiến thức cơ bản liên quan đến việc lập trình ứng dụng bằng ngôn ngữ Java như: lịch sử phát triển của java, các đặc điểm của java, khái niệm máy ảo, cấu trúc của một chương trình đơn giản viết bằng Java cũng như cách xây dựng, dịch và thực thi một chương trình Java.</p></description>
       
     </item>
     

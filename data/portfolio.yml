@@ -4,7 +4,7 @@ portfolioitems:
     description: 'Coding'
     portfolioitem:
       - name: EduQuiz
-        image: '/images/portfolio/code.png'
+        image: '/images/portfolio/code.jpg'
         link: https://github.com/minhquangzxy/EduQuiz
         linktext: 'Truy cập tới dự án'
         description: 'EduQuiz là một ứng dụng giáo dục đa nền tảng được thiết kế để giúp học sinh và người dùng chuẩn bị cho các kỳ thi trắc nghiệm một cách hiệu quả. Mục tiêu của dự án là cung cấp một công cụ học tập toàn diện, dễ sử dụng và thân thiện với người dùng, giúp nâng cao hiệu quả ôn thi và tối ưu hóa kết quả học tập.'
@@ -38,10 +38,10 @@ portfolioitems:
     portfolioitem:
       - name: Khai thác tập mục có độ hữu ích cao
         image: '/images/portfolio/research.webp'
-        description: 'This project does not have a link attribute'
+        description: 'Khai phá tập mục có độ hữu ích và chiếm đóng cao (High-Utility Occupancy Patterns Mining - HUOPMs) là một nhiệm vụ quan trọng trong phân tích cơ sở dữ liệu, giúp nhận diện các tập mục không chỉ có giá trị lớn mà còn mang tính đại diện cao dựa trên các thước đo do người dùng định nghĩa. Mặc dù các thuật toán hiện tại, chẳng hạn như High-Utility Occupancy Pattern Mining (HUOPM) đã đạt được những kết quả ấn tượng trong việc phát hiện các tập mục này, nhưng chúng thường bỏ qua mối tương quan ý nghĩa giữa các mục trong tập mục. Điều này dẫn đến việc khai phá các tập mục có độ hữu ích cao thiếu đi độ tin cậy. Để khắc phục vấn đề này, nghiên cứu chúng tôi mở rộng khái niệm HUOPM bằng cách đề xuất thuật toán  Khai phá các tập mục tương quan có độ chiếm dụng hữu ích cao - CorHUOPM. Thuật toán đề xuất này không chỉ kết hợp giữa độ hữu ích, tính chiếm đóng mà còn đánh giá mối tương quan giữa các mục trong tập mục, đảm bảo rằng các tập mục được phát hiện có mối quan hệ chặt chẽ và nhất quán giữa các mục.'
         tags:
-          - Tag 1
-          - Tag 2
+          - Mining
+          - HUI
       # - name: Project 2
       #   image: '/images/portfolio/code.jpg'
       #   link: https://gohugo.io/

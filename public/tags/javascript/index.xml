@@ -8,57 +8,58 @@
     <language>en</language>
     <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cấu trúc code trong Javascript</title>
+      <title>CẤU TRÚC CODE TRONG JAVACRIPT</title>
       <link>http://localhost:1313/post/10/</link>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/post/10/</guid>
       
-        <description>Những nội dung mình được học ở buổi 9</description>
+        <description><p>Chương trình là tập hợp của các câu lệnh. Hay nói cách khác, câu lệnh trong JavaScript là đơn vị cơ bản xây dựng nên một chương trình. Vì vậy, câu lệnh là khái niệm đầu tiên mà mình cần nắm vững khi học lập trình JavaScript.</p></description>
       
     </item>
     
     <item>
-      <title>Chương trình Javascript đầu tiên</title>
+      <title>CHƯƠNG TRÌNH JAVASCRIPT ĐẦU TIÊN</title>
       <link>http://localhost:1313/post/9/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/post/9/</guid>
       
-        <description>Những nội dung mình được học ở buổi 9</description>
+        <description><h2 id="hello-world-trong-javascript-console">Hello World trong JavaScript Console</h2>
+<p>Cách đơn giản nhất để viết và chạy chương trình JavaScript đầu tiên là sử dụng tiện ích <strong>console</strong> của Dev Tools trên trình duyệt.</p></description>
       
     </item>
     
     <item>
-      <title>Dev Tools là gì? Code javascript tại sao cần console.log</title>
+      <title>DEV TOOLS LÀ GÌ? CODE JAVASCRIPT TẠI SAO CẦN console.log?</title>
       <link>http://localhost:1313/post/8/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/post/8/</guid>
       
-        <description>Những nội dung mình được học ở buổi 8</description>
+        <description><p>Trong lập trình, việc code lỗi là không thể tránh khỏi. Nhưng trên trình duyệt, bạn thường sẽ không nhìn thấy những lỗi này. Mà thay vào đó, bạn cần xem thông qua một công cụ. Đó chính là Dev Tools.</p></description>
       
     </item>
     
     <item>
-      <title>IDE là gì?</title>
+      <title>IDE LÀ GÌ?</title>
       <link>http://localhost:1313/post/7/</link>
       <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/post/7/</guid>
       
-        <description>Những nội dung mình được học ở buổi 7</description>
+        <description><p>Integrated Development Environment (IDE) là một bộ công cụ phần mềm giúp các lập trình viên viết và kiểm tra phần mềm. IDE thường bao gồm một trình soạn thảo mã nguồn, trình gỡ lỗi, và các công cụ tự động hóa quá trình xây dựng.</p></description>
       
     </item>
     
     <item>
-      <title>Giới thiệu Javascript</title>
+      <title>GIỚI THIỆU JAVASCRIPT</title>
       <link>http://localhost:1313/post/6/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/post/6/</guid>
       
-        <description>Những nội dung mình được học ở buổi 6</description>
+        <description><p>JavaScript là ngôn ngữ lập trình bậc cao, linh hoạt, được sử dụng chủ yếu để tạo ra ứng dụng chạy trên trình duyệt web. Được tạo ra bởi Brendan Eich vào năm 1995, JavaScript có thể được viết trong trình soạn thảo văn bản và chạy trực tiếp trên trình duyệt mà không cần qua quá trình biên dịch như C++ hoặc Java.</p></description>
       
     </item>
     
