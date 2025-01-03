@@ -16,4 +16,4 @@ My dream job is to become an AI Engineer. I believe that artificial intelligence
 
 I am a highly motivated individual, always seeking opportunities for growth and improvement. I am not afraid to step out of my comfort zone and take risks, as I believe this is the best way to achieve personal and professional development. I am also a good team player, valuing collaboration and believing that the best results are achieved when working together.
 
-In summary, I am a passionate and motivated individual with a deep love for technology and a desire for continuous learning and improvement. I am very excited about the future and eager to make meaningful contributions to the field of artificial intelligence. ngừng học hỏi và cải thiện. Tôi rất hào hứng về tương lai và mong muốn đóng góp ý nghĩa cho lĩnh vực trí tuệ nhân tạo.
+In summary, I am a passionate and motivated individual with a deep love for technology and a desire for continuous learning and improvement. I am very excited about the future and eager to make meaningful contributions to the field of artificial intelligence. ngừng học hỏi và cải thiện.
